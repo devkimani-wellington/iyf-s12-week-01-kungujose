@@ -1,19 +1,18 @@
-### Hi there, I'm [Joseph Kimani Kungu] 👋
+# Hi, I'm Joseph Kimani Kungu
 
-I'm a student at [iyf] passionate about [Web Development].
+## About Me
+- I'm currently learning programming at iyf Nairobi.
+- I'm interested in 
+- AI, web development and software engineer.
+- I'm looking to collaborate on beginner-friendly open source projects.
 
-- 🔭 Currently working on: IYF Season 12
-- 🌱 Learning: Git, GitHub, and Frontend Development
-- 📫 How to reach me: [kunguj800@gmail.com]
-- ⚡ Fun fact: [I love reading books, I play hockey and reading the Bible is my favourite part of the day]
+## Skills I'm Building
+- Git and GitHub
+- Python
+- HTML/CSS
 
-#### Tech Stack
-- HTML, CSS, JavaScript
-- Git & GitHub
+## Current Projects
+- Build a billionaire- this is me trying to create a billion dollar company before 2032
 
-#### Setup
-```bash
-# My git config --global --list output
-user.name=[kungujose]
-user.email=[kunguj800@gmail.com]
-...
+## How to Reach Me
+- Email: [kunguj800@gmail.com]
