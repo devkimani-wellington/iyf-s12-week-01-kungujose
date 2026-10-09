@@ -19,11 +19,10 @@
 - Camping alone 
 - Helping others, spiritually, emotionally and mentally 
 ## How to Reach Me
-- Email: [kunguj800@gmail.com]
-- Phone: [0182815372]
+- Email: kunguj800@gmail.com
+- Phone: 0182815372
 ## Social Media Accounts 
-[TikTok]
- @I'm_Christian
- @The Common 100 
- git config --global devkimani-wellingtone
-git config --global kunguj800@gmail.com
+TikTok
+- @I'm_Christian
+- @The Common 100 
+
